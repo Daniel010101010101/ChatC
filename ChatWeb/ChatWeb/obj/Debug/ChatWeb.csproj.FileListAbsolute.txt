@@ -1,0 +1,2 @@
+C:\Users\ASUS\Documents\GitHub\ChatC\ChatWeb\ChatWeb\obj\Debug\ChatWeb.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\GitHub\ChatC\ChatWeb\ChatWeb\obj\Debug\ChatWeb.csproj.CoreCompileInputs.cache
